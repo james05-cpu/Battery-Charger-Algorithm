@@ -1,0 +1,13 @@
+When the diode is conducting, the diode current is given by:  
+
+ ID(t)=(VS(t)-VB-Vr)/R
+ The voltage across the diode is: 
+VD(t)=Vr
+
+Non-Conducting Mode 
+
+When the diode is not conducting: 
+The magnitude of the reverse voltage is given as: |VR(t)|=|VS(t)|+VB
+and the diode current:  ID(t)=0
+The conduction cycle can be described as the period from when the diode starts 
+conducting to the time when the diode stops conducting over one cycle of the input signal.  
